@@ -1,0 +1,45 @@
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  margin: 0;
+  background-color: #000000;
+}
+
+.app-container {
+  text-align: center;
+  background-color: #ffffff;
+  border-radius: 15px;
+  padding: 60px;
+  shape-outside: circle();
+  clip-path: circle();
+}
+
+.toggle-button {
+  padding: 12px 20px;
+  font-size: 20px;
+  cursor: pointer;
+  background-color: #28d122;
+  color: #ffffff;
+  border: none;
+  border-radius: 5px;
+  margin-bottom: 20px;
+  transition: background-color 0.3, ease;
+}
+
+.timer-container {
+  background-color: #ffeb3b;
+  padding: 20px;
+  shape-outside: circle();
+  clip-path: circle();
+  text-align: center;
+}
+
+.timer-text {
+  font-size: 30px;
+  color: #2225d1;
+  margin: 0;
+  font-weight: bold;
+  text-transform: uppercase;
+}
