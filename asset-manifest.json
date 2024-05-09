@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rahul-n18/Day2_React_Component-Lifecycle_Timer-App/static/css/main.4d8fb385.css",
+    "main.js": "/rahul-n18/Day2_React_Component-Lifecycle_Timer-App/static/js/main.febab20d.js",
+    "index.html": "/rahul-n18/Day2_React_Component-Lifecycle_Timer-App/index.html",
+    "main.4d8fb385.css.map": "/rahul-n18/Day2_React_Component-Lifecycle_Timer-App/static/css/main.4d8fb385.css.map",
+    "main.febab20d.js.map": "/rahul-n18/Day2_React_Component-Lifecycle_Timer-App/static/js/main.febab20d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d8fb385.css",
+    "static/js/main.febab20d.js"
+  ]
+}
